@@ -1,6 +1,6 @@
 version: '3'
 services:
   my-nginx:
-    image: BaraaN/nginx:latest
+    image: baraan/nginx:latest
     ports:
       - "80:80"
